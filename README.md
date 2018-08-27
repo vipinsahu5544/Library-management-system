@@ -33,28 +33,47 @@ Follow the steps.
   6. In issue book page, Enter only Reader id and book id. All the other information will be fetched automatically (See Screenshots below).
 
 Home page
+
 ![screenshot 498](https://user-images.githubusercontent.com/22103635/44652806-860a0a80-aa0a-11e8-8cdf-c8211ca4de57.png)
 .
 .
 .
 .
 Available books
+
 ![screenshot 499](https://user-images.githubusercontent.com/22103635/44652821-991cda80-aa0a-11e8-867a-87e37dcdf10d.png)
 .
 .
 .
 .
 Enter new book
+
 ![screenshot 502](https://user-images.githubusercontent.com/22103635/44652916-dbdeb280-aa0a-11e8-8460-78cc89ede129.png)
 .
 .
 .
 .
 Issue book
+
 ![screenshot 500](https://user-images.githubusercontent.com/22103635/44652951-f7e25400-aa0a-11e8-92e5-18c84fe18793.png)
 .
 .
 .
 .
-Return book
-![screenshot 501](https://user-images.githubusercontent.com/22103635/44652977-092b6080-aa0b-11e8-91e8-502d4e80e48d.png)
+Return book without entry
+
+![screenshot 503](https://user-images.githubusercontent.com/22103635/44653276-e8afd600-aa0b-11e8-9cd1-3add89d95d08.png)
+.
+.
+.
+.
+Entering reader id and book id on issue book page.
+
+![screenshot 505](https://user-images.githubusercontent.com/22103635/44653326-0aa95880-aa0c-11e8-9a48-658944dd81e3.png)
+.
+.
+.
+.
+Clicking on submit button
+
+![screenshot 504](https://user-images.githubusercontent.com/22103635/44653343-1dbc2880-aa0c-11e8-810d-30648d925b8a.png)
