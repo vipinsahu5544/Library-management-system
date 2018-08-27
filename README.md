@@ -29,3 +29,32 @@ Follow the steps.
   4. ExecuteSQLQuery has a execute function that executes all the sql command in any sql script.
   
   5. For better redability use any ide. (I have used PyCharm.)
+  
+  6. In issue book page, Enter only Reader id and book id. All the other information will be fetched automatically (See Screenshots below).
+
+Home page
+![screenshot 498](https://user-images.githubusercontent.com/22103635/44652806-860a0a80-aa0a-11e8-8cdf-c8211ca4de57.png)
+.
+.
+.
+.
+Available books
+![screenshot 499](https://user-images.githubusercontent.com/22103635/44652821-991cda80-aa0a-11e8-867a-87e37dcdf10d.png)
+.
+.
+.
+.
+Enter new book
+![screenshot 502](https://user-images.githubusercontent.com/22103635/44652916-dbdeb280-aa0a-11e8-8460-78cc89ede129.png)
+.
+.
+.
+.
+Issue book
+![screenshot 500](https://user-images.githubusercontent.com/22103635/44652951-f7e25400-aa0a-11e8-92e5-18c84fe18793.png)
+.
+.
+.
+.
+Return book
+![screenshot 501](https://user-images.githubusercontent.com/22103635/44652977-092b6080-aa0b-11e8-91e8-502d4e80e48d.png)
