@@ -1,5 +1,5 @@
 # Library-management-system
-It is a simple library management system(Using Python) that can perform some common tasks,i.e. ( Issuing book, Entering new book, showing list of all available books, &amp; Return book).
+It is a simple library management system(Using Python) that can perform tasks like - ( Issuing book, Entering new book, showing list of all available books, &amp; Return book).
 
 Follow the steps.
   1. Download all the files and store them in the same folder.
